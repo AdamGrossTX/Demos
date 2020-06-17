@@ -7,4 +7,5 @@ Windows 10 Feature Updates – The Challenge of Servicing in the Enterprise
 
 February 1, 2019  
 An in-depth look at the ConfigMgr AdminService and how it will change your life  
-[https://www.eventbrite.com/e/ctsmug-feb-1st-2019-home-depot-tc-with-patch-my-pc-tickets-54711322037#](https://www.eventbrite.com/e/ctsmug-feb-1st-2019-home-depot-tc-with-patch-my-pc-tickets-54711322037#)
+[https://www.eventbrite.com/e/ctsmug-feb-1st-2019-home-depot-tc-with-patch-my-pc-tickets-54711322037#](https://www.eventbrite.com/e/ctsmug-feb-1st-2019-home-depot-tc-with-patch-my-pc-tickets-54711322037#)  
+[https://github.com/AdamGrossTX/Demos/tree/master/CTSMUG/20190201](https://github.com/AdamGrossTX/Demos/tree/master/CTSMUG/20190201)
